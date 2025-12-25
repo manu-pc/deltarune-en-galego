@@ -7,8 +7,9 @@ parche completo dos dous primeiros capítulos (gratis!) de *deltarune* ao idioma
 
 ### instalación
 
-- descargar os ficheiros incluídos
-- descomprimilos no directorio **DELTARUNE** de steam  
+- procura a última versión no apartado de "Releases"
+- descarga o arquivo deltagal.zip
+- descomprime o contido no directorio **DELTARUNE** de steam  
   (pódese acceder desde steam usando “abrir arquivos locais” nas opcións do xogo)
 - substituír todos os arquivos cando se solicite
 - ao iniciar o xogo, aparecerá a opción **language config**, desde a que se pode cambiar ao galego
@@ -36,8 +37,9 @@ complete patch for the first two chapters (free!) of *deltarune*, translated int
 
 ### installation
 
-- download the included files
-- extract them into the **DELTARUNE** steam directory  
+- get the latest release from github
+- download deltagal.zip
+- extract into the **DELTARUNE** steam directory  
   (this can be accessed from steam by selecting “browse local files” in the game options)
 - replace all files when prompted
 - when launching the game, a **language config** option should appear, allowing you to switch to galician
