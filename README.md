@@ -12,7 +12,7 @@ parche completo dos dous primeiros capítulos (gratis!) de *deltarune* ao idioma
 - descomprime o contido no directorio **DELTARUNE** de steam  
   (pódese acceder desde steam usando “abrir arquivos locais” nas opcións do xogo)
 - substituír todos os arquivos cando se solicite
-- ao iniciar o xogo, aparecerá a opción **language config**, desde a que se pode cambiar ao galego
+- ao iniciar o capitulo 1 ou 2, aparecerá a opción **language config**, desde a que se pode cambiar ao galego
 
 ### notas legais
 
