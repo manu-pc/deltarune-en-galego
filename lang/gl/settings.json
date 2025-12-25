@@ -1,0 +1,11 @@
+{
+    "name": "Galego",
+    "fonts_range": [32, 128],
+    "monospace_fonts": false,
+    "special_mode": false,
+    "enable_translated_songs_switch": false,
+    "translator_mode": false,
+    "limit_by_width": false,
+    "charline_base": 33,
+    "charline_face": 26
+}
