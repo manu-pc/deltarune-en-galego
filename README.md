@@ -11,8 +11,9 @@ parche completo dos dous primeiros capítulos (gratis!) de *deltarune* ao idioma
 - descarga o arquivo deltagal.zip
 - descomprime o contido no directorio **DELTARUNE** de steam  
   (pódese acceder desde steam usando “abrir arquivos locais” nas opcións do xogo)
-- substituír todos os arquivos cando se solicite
+- substituír todos os arquivos cando se solicite. aínda que xa teñas unha version vella do patch instalado ou unha partida comezada, non pasa nada!! isto non borra en absoluto o teu progreso no xogo. as partidas de deltarune gardanse nun directorio distinto. podes ter unha partida comezada cunha version do patch, actualizalo, e seguir xogando na mesma partida.
 - ao iniciar o xogo por primeira vez, preguntarase "Would you like to start in chapter 1?", seleccionas Yes
+
 - na seguinte pantalla, unha das opcións de abaixo será CONFIG
 - aí, seleccionas o ENGLISH e, coas frechas de dereita/esquerda, cambias o idioma a galego!
 
