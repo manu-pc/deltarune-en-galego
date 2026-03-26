@@ -1,0 +1,8 @@
+*.ogg
+data.win
+chapter1_windows/
+chapter2_windows/
+lang/
+*.zip
+léme.txt
+release.sh
