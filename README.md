@@ -8,7 +8,7 @@ Parche completo dos *TRES!* primeiros capítulos de *deltarune* ao idioma galego
 ### instalación
 
 - procura a última versión no apartado de "Releases"
-- descarga o arquivo deltagal.zip
+- descarga o arquivo deltagal.zip do link de drive (NON o que pon Source Code!!! o que está en drive!!!!)
 - descomprime o contido no directorio **DELTARUNE** de steam  
   (pódese acceder desde steam usando “abrir arquivos locais” nas opcións do xogo)
 - substituír todos os arquivos cando se solicite. aínda que xa teñas unha version vella do patch instalado ou unha partida comezada, non pasa nada!! isto non borra en absoluto o teu progreso no xogo. as partidas de deltarune gardanse nun directorio distinto. podes ter unha partida comezada cunha version do patch, actualizalo, e seguir xogando na mesma partida.
