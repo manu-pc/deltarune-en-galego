@@ -68,3 +68,7 @@ my hope is that it helps bring one of my favorite games to more people, or helps
 if you decide to try it, thank you very much, and i hope you enjoy it :)
 
 </details>
+
+## Atopaches un erro???????????
+
+Por favor, diríxete a https://github.com/manu-pc/deltarune-en-galego-BUGS!!
