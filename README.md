@@ -41,7 +41,7 @@ se o vas probar, moitas grazas, e espero que o desfrutes :)
 
 ## english
 
-complete patch for the first two chapters (free!) of *deltarune*, translated into galician.
+complete patch for the first **three** chapters of *deltarune*, translated into galician.
 
 ### installation
 
