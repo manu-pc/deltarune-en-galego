@@ -18,5 +18,5 @@ Trátase dun proxecto de localización de todo o xogo, incluíndo diálogos, tex
 ---
 
 <div align="center">
-<strong><a href="install.md">Instalación →</a></strong>
+<strong><a href="instalar.md">Instalación →</a></strong>
 </div>
