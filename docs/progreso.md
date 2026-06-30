@@ -2,7 +2,7 @@
 
 # DELTARUNE en galego
 
-**[Inicio](README.md)** · [Instalación](instalar.md) · [Progreso](progreso.md) · [Colaborar](colaborar.md) · [Créditos](creditos.md)
+[Inicio](README.md) · [Instalación](instalar.md) · **[Progreso](progreso.md)** · [Colaborar](colaborar.md) · [Créditos](creditos.md)
 
 </div>
 
