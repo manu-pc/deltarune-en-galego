@@ -1,0 +1,78 @@
+{
+    "jack_phrases": [
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["YOUR", "       ", "    ", " LONG  "],
+        ["  LO", "       ", "    ", " NG    "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["    ", "     IS", "    ", "       "],
+        ["    ", " TAKING", " TOO", " LONG  "],
+
+        ["YOUR", " TAKING", " TOO", " TOO   "],
+        ["    ", "       ", " TOO", " TOO   "],
+        ["YOUR", "       ", " TOO", " TOO   "],
+
+        ["YOUR", " TAKING", " TOO", " LONG  "],
+        ["LONG", " TAKING", " TOO", " LONG  "],
+
+
+        ["YOUR", " TOO", " BRIGHT"]
+    ],
+    
+    
+    "jack_timings": [
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 13, 27, 37],
+        [0, 0, 30, 30],
+        [0, 0, 5, 5],
+
+        [0, 13, 27, 37],
+        [50, 50, 50, 50],
+        [62, 62, 81, 88],
+
+        [0, 13, 27, 37],
+        [0,  0, 27, 37],
+        [0, 13, 27, 37],
+
+        [0, 13, 27, 37],
+        [30, 39, 53, 63],
+
+        [0, 23, 40]
+    ],
+
+    "translators_credits": [
+        [
+            {
+                "header": ["-Japanese Localization-"],
+                "text_line": ["8-4, Ltd."],
+                "columns": 1
+            },
+            {
+                "header": ["-Translator-"],
+                "text_line": ["Keiko Fukuichi"],
+                "columns": 1
+            }
+        ],
+        [
+            {
+                "header": ["-Localization Producers-"],
+                "text_line": ["Tina Carter", "John Ricciardi"],
+                "columns": 1
+            },
+            {
+                "header": ["-Localization Support-"],
+                "text_line": [
+                    "Hiroyuki Matsushita", 
+                    "Yutaka Ohbuchi", 
+                    "Sami Ragone", 
+                    "Alissa Staples", 
+                    "JP Wentz"
+                ],
+                "columns": 1
+            }
+        ]
+    ]
+}
