@@ -15,8 +15,8 @@ DELTARUNE en galego leva en desenvolvemento dende inicios de 2025. O estado actu
 * **Capítulo 1**: Completamente traducido e revisado!
 * **Capítulo 2**: Completamente traducido e revisado!
 * **Capítulo 3**: Completamente traducido e revisado, con algúns detalles a corrixir (textos de Tenna, vídeo)
-* **Capítulo 4**: En proceso!
-* **Capítulo 5**: Sen comezar.
+* **Capítulo 4**: Completamente traducido!!!!
+* **Capítulo 5**: Proximamente!
 * **Capítulos 6-7**: ... non saíron!
 
 

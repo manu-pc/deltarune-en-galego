@@ -15,6 +15,8 @@ DELTARUNE en galego é un proxecto de localización de [Deltarune](https://delta
 
 Trátase dun proxecto de localización de todo o xogo, incluíndo diálogos, textos de combate, sprites, referencias...
 
+Actualmente, están traducidos dos capítulos 1 ao 4!
+
 ---
 
 <div align="center">
