@@ -12,7 +12,7 @@
 
 Actualmente non estamos procurando máis colaboradores. Esta páxina actualizarase cando iso cambie!
 
-As notificacións respecto disto publicaranse en [Instagram](https://www.instagram.com/stonegebet/).
+As notificacións respecto disto publicaranse en [Instagram](https://www.instagram.com/Deltarune_en_galego/https://www.instagram.com/Deltarune_en_galego/).
 
 ---
 

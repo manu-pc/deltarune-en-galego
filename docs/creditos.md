@@ -21,7 +21,9 @@
 * *Alneth*: Testing
 
 ---
+Grazas aos desenvolvedores de [Deltranslate](https://github.com/Lazy-Desman/DeltranslatePatch/) por aportar os scripts necesarios para crear o parche do xogo a partir da tradución.
 
+---
 <div align="center">
 <a href="colaborar.md">← Colaborar</a>  ·  <a href="README.md">Inicio</a>
 </div>
